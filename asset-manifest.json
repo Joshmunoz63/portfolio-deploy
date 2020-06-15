@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ff22bf6.chunk.css",
+    "main.js": "/static/js/main.1bdc57c5.chunk.js",
+    "main.js.map": "/static/js/main.1bdc57c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f50c5ee7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f50c5ee7.js.map",
+    "static/js/2.f656c09c.chunk.js": "/static/js/2.f656c09c.chunk.js",
+    "static/js/2.f656c09c.chunk.js.map": "/static/js/2.f656c09c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebbb2e306b72669f60a021c36d68ebf1.js": "/precache-manifest.ebbb2e306b72669f60a021c36d68ebf1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3ff22bf6.chunk.css.map": "/static/css/main.3ff22bf6.chunk.css.map",
+    "static/js/2.f656c09c.chunk.js.LICENSE.txt": "/static/js/2.f656c09c.chunk.js.LICENSE.txt",
+    "static/media/backend.png": "/static/media/backend.f94dd9d3.png",
+    "static/media/bamazon.png": "/static/media/bamazon.28524543.png",
+    "static/media/dude.png": "/static/media/dude.ec7eacb1.png",
+    "static/media/frontend.png": "/static/media/frontend.726345bc.png",
+    "static/media/portfolio.png": "/static/media/portfolio.eddc20b8.png",
+    "static/media/qwiki.png": "/static/media/qwiki.c9720b26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50c5ee7.js",
+    "static/js/2.f656c09c.chunk.js",
+    "static/css/main.3ff22bf6.chunk.css",
+    "static/js/main.1bdc57c5.chunk.js"
+  ]
+}
